@@ -18,7 +18,7 @@ export default function About() {
           <span className="section-kicker">01 / About</span>
           <h2 className="section-title mt-3">Who I am</h2>
           <p className="section-subtitle">
-            A quick look at the person behind the code — curious, hands-on, and learning by building.
+            A quick look at the person behind the code - curious, hands-on, and learning by building.
           </p>
         </div>
 
@@ -39,10 +39,10 @@ export default function About() {
               <p>
                 During my internship at the{' '}
                 <strong className="text-ink-900 font-semibold">Airports Authority of India</strong>, I designed and benchmarked
-                a cryptographic testbed — an experience that taught me how to approach engineering decisions with rigour and data.
+                session-wise cryptographic encryption and decryption workflow, that taught me how to approach engineering decisions with rigour and data.
               </p>
               <p>
-                Outside of code, I serve as <strong className="text-ink-900 font-semibold">Treasurer for IEEE BVCOE</strong>, manage
+                Outside of code, I served as <strong className="text-ink-900 font-semibold">Treasurer for IEEE BVCOE</strong>, manage
                 event finances, and regularly participate in tech and design competitions. I care about growing fast,
                 collaborating well, and shipping things that actually work.
               </p>
